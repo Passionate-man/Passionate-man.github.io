@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>标签 - Tag - My New Hugo Site</title>
+        <link>http://example.org/tags/%E6%A0%87%E7%AD%BE/</link>
+        <description>标签 - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>cn</language><lastBuildDate>Sun, 04 Dec 2022 18:09:24 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%A0%87%E7%AD%BE/" rel="self" type="application/rss+xml" /><item>
+    <title>First Post</title>
+    <link>http://example.org/post/first-post/</link>
+    <pubDate>Sun, 04 Dec 2022 18:09:24 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/post/first-post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
