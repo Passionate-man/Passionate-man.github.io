@@ -1,40 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on LoveIt</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on LoveIt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn</language>
+    <language>zh-CN</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 04 Dec 2022 19:05:23 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My2 First Post</title>
-      <link>http://example.org/post/my2-first-post/</link>
+      <link>https://example.com/post/my2-first-post/</link>
       <pubDate>Sun, 04 Dec 2022 19:05:23 +0800</pubDate>
       
-      <guid>http://example.org/post/my2-first-post/</guid>
+      <guid>https://example.com/post/my2-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two</title>
-      <link>http://example.org/post/two/</link>
+      <link>https://example.com/post/two/</link>
       <pubDate>Sun, 04 Dec 2022 18:29:46 +0800</pubDate>
       
-      <guid>http://example.org/post/two/</guid>
+      <guid>https://example.com/post/two/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/post/first-post/</link>
+      <link>https://example.com/post/first-post/</link>
       <pubDate>Sun, 04 Dec 2022 18:09:24 +0800</pubDate>
       
-      <guid>http://example.org/post/first-post/</guid>
+      <guid>https://example.com/post/first-post/</guid>
       <description></description>
     </item>
     

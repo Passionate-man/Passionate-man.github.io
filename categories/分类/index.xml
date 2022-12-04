@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>分类 - Category - My New Hugo Site</title>
-        <link>http://example.org/categories/%E5%88%86%E7%B1%BB/</link>
-        <description>分类 - Category - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>cn</language><lastBuildDate>Sun, 04 Dec 2022 18:09:24 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E5%88%86%E7%B1%BB/" rel="self" type="application/rss+xml" /><item>
+        <title>分类 - 分类 - LoveIt</title>
+        <link>https://example.com/categories/%E5%88%86%E7%B1%BB/</link>
+        <description>分类 - 分类 - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 04 Dec 2022 18:09:24 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/%E5%88%86%E7%B1%BB/" rel="self" type="application/rss+xml" /><item>
     <title>First Post</title>
-    <link>http://example.org/post/first-post/</link>
+    <link>https://example.com/post/first-post/</link>
     <pubDate>Sun, 04 Dec 2022 18:09:24 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/post/first-post/</guid>
+    <author>xxxx</author>
+    <guid>https://example.com/post/first-post/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
