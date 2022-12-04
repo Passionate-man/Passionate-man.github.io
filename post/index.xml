@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 04 Dec 2022 19:05:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2022 23:08:55 +0800</lastBuildDate>
     
 	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>F2</title>
+      <link>https://example.com/post/f2/</link>
+      <pubDate>Sun, 04 Dec 2022 23:08:55 +0800</pubDate>
+      
+      <guid>https://example.com/post/f2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My2 First Post</title>
