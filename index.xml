@@ -3,7 +3,15 @@
         <title>LoveIt</title>
         <link>https://example.com/</link>
         <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 05 Dec 2022 13:05:52 &#43;0800</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>First</title>
+    <link>https://example.com/first/</link>
+    <pubDate>Mon, 05 Dec 2022 13:05:52 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://example.com/first/</guid>
+    <description><![CDATA[分为氛围非法违法违法]]></description>
+</item>
+</channel>
 </rss>
