@@ -3,21 +3,15 @@
         <title>LoveIt</title>
         <link>https://example.com/</link>
         <description>Hugo theme - LoveIt</description>
-<<<<<<< HEAD
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
-=======
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 05 Dec 2022 13:05:52 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 05 Dec 2022 21:47:22 &#43;0800</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First</title>
-    <link>https://example.com/first/</link>
-    <pubDate>Mon, 05 Dec 2022 13:05:52 &#43;0800</pubDate>
+    <title>Hello World</title>
+    <link>https://example.com/helloworld/</link>
+    <pubDate>Mon, 05 Dec 2022 21:47:22 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://example.com/first/</guid>
-    <description><![CDATA[分为氛围非法违法违法]]></description>
+    <guid>https://example.com/helloworld/</guid>
+    <description><![CDATA[Hello World]]></description>
 </item>
 </channel>
->>>>>>> 3974e3b732f0a1c8db3054d08b130496d45a47a8
 </rss>
