@@ -8,33 +8,33 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Lin</title>
-        <link>https://example.com/</link>
+        <link>https://lin.blue/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.111.3 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>reuixiy@gmail.com (Lin)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>reuixiy@gmail.com (Lin)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 27 Apr 2023 17:08:42 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 20:37:19 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://lin.blue/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <link>https://lin.blue/posts/hello-world/</link>
+                <guid isPermaLink="true">https://lin.blue/posts/hello-world/</guid>
                 <pubDate>Tue, 25 Apr 2023 16:50:24 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>reuixiy@gmail.com (Lin)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -54,7 +54,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/fw/">fw</category>
+                                    <category domain="https://lin.blue/categories/fw/">fw</category>
                                 
                             
                         
@@ -64,7 +64,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/test/">test</category>
+                                    <category domain="https://lin.blue/tags/test/">test</category>
                                 
                             
                         
